@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahya Aburayyan</h1>
 <h3 align="center">Computer Science Student | Birzeit University</h3>
 
-- 🔭 I’m currently working on Ecommerce website **LOKMA store**
+- 🔭 I’m currently working on Ecommerce website **LOKMA store** and Arabic whatsapp chatbot
 
 - 👨‍💻 All of my projects are available at [https://yahyaaburayyan.github.io/Portfolio_Page/](https://yahyaaburayyan.github.io/Portfolio_Page/)
 
